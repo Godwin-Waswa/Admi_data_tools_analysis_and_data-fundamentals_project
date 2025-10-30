@@ -190,6 +190,19 @@ Clone this repository to your desired folder:
 ```
 
 <!-- ### DB Creation -->
+### Install
+
+- No installation required.
+
+### Usage
+
+- Open your Supabase project dashboard.
+
+- Run the SQL scripts provided step by step guide below
+
+### Live Demo
+
+- No live demo provided by following step by step guide below will enable you excecute the project
 
 ### Database Schema
 
